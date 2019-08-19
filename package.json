@@ -1,0 +1,38 @@
+{
+  "name": "gulp-admin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Z <lishengling@zto.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "gulp -d",
+    "build": "gulp -b"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "browser-sync": "^2.26.7",
+    "gulp-asset-rev": "^0.0.15",
+    "gulp-babel": "^8.0.0",
+    "gulp-cache": "^1.1.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-html-replace": "^1.6.2",
+    "gulp-imagemin": "^6.0.0",
+    "gulp-less": "^4.0.1",
+    "gulp-rev": "^9.0.0",
+    "gulp-rev-collector": "^1.3.1",
+    "gulp-uglify": "^3.0.2",
+    "less": "^3.9.0",
+    "less-plugin-autoprefix": "^2.0.0",
+    "path": "^0.12.7",
+    "run-sequence": "^2.2.1",
+    "yargs": "^13.2.4"
+  },
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-es2015": "^6.24.1",
+    "gulp": "^3.9.1"
+  }
+}
