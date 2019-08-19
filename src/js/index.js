@@ -1,5 +1,5 @@
 /**
- * Created by zto on 2017/8/18.
+ * Created by  on 2017/8/18.
  * 封装Vue 全局method、param
  * 实例中调用：this.zMethod.getValueByUrl()
  */

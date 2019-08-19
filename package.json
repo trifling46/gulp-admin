@@ -2,7 +2,7 @@
   "name": "gulp-admin",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Z <lishengling@zto.com>",
+  "author": "lsl <1090726892@qq.com>",
   "license": "MIT",
   "scripts": {
     "dev": "gulp -d",
